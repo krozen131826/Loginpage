@@ -1,0 +1,92 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f5f6f8;
+}
+
+.bg-image {
+  background: url(https://picsum.photos/id/1011/599/928);
+  height: 100vh;
+  background-repeat: no-repeat;
+  content: "";
+  margin-left: 150px;
+  width: 100%;
+}
+
+.mb-bottom {
+  margin-bottom: 100px;
+}
+
+.margin-left {
+  margin-left: 143px;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 60px;
+}
+
+span {
+  color: #f6830f;
+}
+
+.btn {
+  background-color: #f6830f;
+  border-color: #f6830f;
+  padding: 20px 0;
+  border-radius: 12px;
+}
+
+.btn:hover {
+  background-color: #f6830f;
+}
+
+.mb-utl {
+  margin-bottom: 85px;
+}
+
+.option-login {
+  font-size: 14px;
+  line-height: 21px;
+  color: #aaa;
+}
+
+.btn-utl {
+  color: #000;
+  background-color: white;
+  border-color: #dddddd;
+  padding: 20px 90px;
+  border-radius: 12px;
+  font-weight: 700px;
+  display: inline-block;
+}
+
+form {
+  background-color: white;
+  border-radius: 24px;
+  padding: 56px 40px;
+}
+
+input {
+  padding: 50px;
+}
+
+.pw-reset {
+  display: flex;
+  justify-content: flex-end;
+}
+
+a {
+  text-decoration: none;
+  color: #aaaaaa;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+a:hover {
+  color: #000;
+}
+
+.svg-size {
+  height: 20px;
+  width: 20px;
+}
